@@ -85,3 +85,4 @@ StyleCopViolations.xml
 
 # IntelliJ files
 .idea
+Microsoft.Build.Utilities.v3.5.xml
